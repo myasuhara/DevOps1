@@ -4,3 +4,8 @@ Fri Apr 27 00:52:01 PDT 2018
 fatal: Not a git repository (or any of the parent directories): .git
 fatal: Not a git repository (or any of the parent directories): .git
 Fri Apr 27 00:53:01 PDT 2018
+[master 0a52646] commit
+ 5 files changed, 8 insertions(+), 18 deletions(-)
+ create mode 100644 c
+ rewrite logs (84%)
+ create mode 100644 logs2
