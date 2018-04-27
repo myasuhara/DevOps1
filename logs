@@ -1,0 +1,26 @@
+[master b580c9d] commit
+ 4 files changed, 31 insertions(+)
+ create mode 100755 add.sh
+ create mode 100644 gitkey
+ create mode 100644 gitkey.pub
+ create mode 100644 logs
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Warning: Permanently added the RSA host key for IP address '192.30.255.112' to the list of known hosts.
+To git@github.com:myasuhara/DevOps1.git
+   39f9958..b580c9d  master -> master
+Branch master set up to track remote branch master from origin.
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
