@@ -22,7 +22,7 @@ then
   cat network.txt
 elif [ "$1" = "-all" ]
 then
-  echo "* Numer of CPU *******************************************************"
+  echo "* Numer of CPU ********************************************************"
   cat /proc/cpuinfo > cpu.txt
   cat cpu.txt
   echo "* Amount of RAM *****************************************************"
