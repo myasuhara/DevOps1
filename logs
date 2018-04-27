@@ -1,17 +1,6 @@
-[master 8b41560] commit
- 1 file changed, 26 deletions(-)
- rewrite logs (100%)
+Fri Apr 27 00:50:01 PDT 2018
+Fri Apr 27 00:51:01 PDT 2018
+Fri Apr 27 00:52:01 PDT 2018
 fatal: Not a git repository (or any of the parent directories): .git
 fatal: Not a git repository (or any of the parent directories): .git
-fatal: Not a git repository (or any of the parent directories): .git
-fatal: Not a git repository (or any of the parent directories): .git
-[master 40cc140] commit
- 1 file changed, 7 insertions(+)
-fatal: Not a git repository (or any of the parent directories): .git
-fatal: Not a git repository (or any of the parent directories): .git
-fatal: Not a git repository (or any of the parent directories): .git
-fatal: Not a git repository (or any of the parent directories): .git
-[master ec1f11c] commit
- 2 files changed, 7 insertions(+), 1 deletion(-)
-fatal: Not a git repository (or any of the parent directories): .git
-fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 00:53:01 PDT 2018
