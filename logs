@@ -1201,3 +1201,207 @@ Fri Apr 27 06:32:01 PDT 2018
 fatal: Not a git repository (or any of the parent directories): .git
 fatal: Not a git repository (or any of the parent directories): .git
 Fri Apr 27 06:33:01 PDT 2018
+[master d14cedb] commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 06:34:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 06:35:01 PDT 2018
+Fri Apr 27 06:36:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 06:37:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 06:38:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 06:39:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 06:40:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 06:41:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 06:42:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 06:43:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 06:44:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 06:45:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 06:46:01 PDT 2018
+Fri Apr 27 06:47:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 06:48:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 06:49:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 06:50:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 06:51:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 06:52:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 06:53:01 PDT 2018
+Fri Apr 27 06:54:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 06:55:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 06:56:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 06:57:02 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 06:58:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 06:59:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 07:00:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 07:01:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 07:02:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 07:03:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 07:04:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+[master af1277e] commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 07:05:01 PDT 2018
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+Changes not staged for commit:
+	modified:   logs
+
+Untracked files:
+	GitHob.txt
+	add-devops1b.sh
+
+no changes added to commit
+Fri Apr 27 07:06:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 07:07:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 07:08:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 07:09:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 07:10:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 07:11:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 07:12:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 07:13:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 07:14:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 07:15:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 07:16:01 PDT 2018
+Fri Apr 27 07:17:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 07:18:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 07:19:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 07:20:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 07:21:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 07:22:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 07:23:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 07:24:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 07:25:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 07:26:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 07:27:01 PDT 2018
+Fri Apr 27 07:28:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 07:29:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 07:30:02 PDT 2018
+Fri Apr 27 07:31:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 07:32:01 PDT 2018
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+Fri Apr 27 07:33:01 PDT 2018
