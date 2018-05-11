@@ -7,3 +7,7 @@ To git@github.com:myasuhara/DevOps1.git
    d2d34ac..e4f4919  master -> master
 Branch master set up to track remote branch master from origin.
 Fri May 11 10:10:08 PDT 2018
+[master 3a8f26a] commit
+ 3 files changed, 9 insertions(+)
+ create mode 100644 verification
+Fri May 11 10:12:05 PDT 2018
