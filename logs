@@ -1,23 +1,11 @@
-Fri May 11 10:06:22 PDT 2018
-[master e4f4919] commit
- 2 files changed, 2 insertions(+), 1407 deletions(-)
- rewrite logs (100%)
-Fri May 11 10:07:24 PDT 2018
-To git@github.com:myasuhara/DevOps1.git
-   d2d34ac..e4f4919  master -> master
-Branch master set up to track remote branch master from origin.
-Fri May 11 10:10:08 PDT 2018
-[master 3a8f26a] commit
- 3 files changed, 9 insertions(+)
- create mode 100644 verification
-Fri May 11 10:12:05 PDT 2018
-[master ccdaf58] commit
- 3 files changed, 6 insertions(+)
- create mode 100644 verification'
+Sat May 12 07:28:07 PDT 2018
+****** Numer of CPU ***************************************************
+cpu cores	: 1
+ 
+**** Amount of RAM ****************************************************
+MemTotal:        2041564 kB
+MemFree:          507064 kB
+MemAvailable:     998896 kB
+ 
 ***********************************************************
-Fri May 11 10:13:05 PDT 2018
-[master ddb4a02] commit
- 3 files changed, 11 insertions(+), 1 deletion(-)
- create mode 100644 add.sh'
-***********************************************************
-Fri May 11 10:14:02 PDT 2018
+Sat May 12 07:40:17 PDT 2018

@@ -1,41 +1,62 @@
 #!/bin/bash
 
-if [ "$1" = "-cpu" ]
+echo `date` > logs
+
+if [ $# == 0 ]
 then
-  echo "* Numer of CPU *******************************************************"
-  cat /proc/cpuinfo > cpu.txt
-  cat cpu.txt
-elif [ "$1" = "-ram" ]
-then
-  echo "* Amount of RAM *****************************************************"
-  cat /proc/meminfo > ram.txt
-  cat ram.txt
-elif [ "$1" = "-volumes" ]
-then
-  echo "* Number of Volumes *************************************************"
-  df -h > volumes.txt
-  cat volumes.txt
-elif [ "$1" = "-network" ]
-then
-  echo "*** MAC address and IP address in Network ****************************"
-  ifconfig -a > network.txt
-  cat network.txt
-elif [ "$1" = "-all" ]
-then
-  echo "* Numer of CPU ********************************************************"
-  cat /proc/cpuinfo > cpu.txt
-  cat cpu.txt
-  echo "* Amount of RAM *****************************************************"
-  cat /proc/meminfo > ram.txt
-  cat ram.txt
-  echo "* Number of Volumes *************************************************"
-  df -h > volumes.txt
-  cat volumes.txt
-  echo "*** MAC address and IP address in Network ****************************"
-  ifconfig -a > network.txt
-  cat network.txt
-else
-   echo "***invallid parameter***"
-   echo "select one from the following;"
-   echo "-cpu, -ram, -volumes, -network, -all" 
+      echo "************** instruction ****************************************"
+      echo "*                                                                 *"
+      echo "*     Specify the following parameter(s):                         *"
+      echo "*                                                                 *"
+      echo "*        -cpu, -ram, -volumes, -network, -all                     *"
+      echo "*                                                                 *"
+      echo "*******************************************************************"
 fi
+
+
+while [ "$1" != "" ]; do
+    # echo "Parameter 1 equals $1"
+    # echo "You now have $# positional parameters"
+
+   if [ "$1" = "-cpu" ]
+      then
+        echo "****** Numer of CPU ***************************************************"  >> logs
+        cat /proc/cpuinfo | grep "cpu cores" >> logs
+        echo " " >> logs
+      elif [ "$1" = "-ram" ]
+      then
+        echo "**** Amount of RAM ****************************************************"  >> logs
+        cat /proc/meminfo | grep "Mem" >> logs
+        echo " " >> logs
+      elif [ "$1" = "-volumes" ]
+      then
+        echo "***** Number of Volumes ***********************************************"  >> logs
+        df -h >> logs
+        echo " " >> logs
+      elif [ "$1" = "-network" ]
+      then
+     	echo "***** MAC address and IP address in Network ****************************"  >> logs
+     	ifconfig -a | grep "addr" >> logs
+     	echo " " >> logs
+      elif [ "$1" = "-all" ]
+      then
+        echo "***** Numer of CPU *****************************************************" >> logs
+        cat /proc/cpuinfo | grep "cpu cores" >> logs
+        echo " " >> logs
+        echo "***** Amount of RAM ****************************************************" >> logs
+        cat /proc/meminfo | grep "Mem" >> logs
+        echo " " >> logs
+        echo "***** Number of Volumes ************************************************" >> logs
+        df -h >> logs
+        echo " " >> logs
+        echo "***** MAC address and IP address in Network ****************************" >> logs
+        ifconfig -a | grep "addr" >> logs
+        echo " " >> logs
+   fi
+
+    # Shift all the parameters down by one
+    shift
+
+done
+
+cat logs
